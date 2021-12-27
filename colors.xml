@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="black">#FF000000</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

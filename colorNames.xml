@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colorNames">
+        <item>IndianRed</item>
+        <item>LightCoral</item>
+        <item>LightSalmon</item>
+        <item>Crimson</item>
+        <item>DarkRed</item>
+        <item>black</item>
+        <item>OrangeRed</item>
+        <item>white</item>
+    </string-array>
+</resources>
